@@ -4,7 +4,7 @@ Initially, I was curious to perfom a COVID-19 analysis globally. I created an in
 
 Afterwards, I focused on COVID-19 in 6 countries: United Kingdom, Germany, France, Italy, Greece and Bulgaria. I compared the cases and deaths across time and cumulative cases on the  last date of the study.
 
-Data requested using this ('https://api.statworx.com/covid') COVID-19 API.
+Data requested using the [COVID-19 API](https://api.statworx.com/covid).
 
 ## Scripts
 * COVID19.ipynb - COVID-19 analysis over time for the United_Kingdom, Germany, France, Italy, Greece and Bulgaria.
